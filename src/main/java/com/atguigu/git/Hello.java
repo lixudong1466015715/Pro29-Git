@@ -7,7 +7,7 @@ public class Hello {
 		System.out.println("hello git...");
 		System.out.println("hello git...");
 		System.out.println("hello git...");
-		System.out.println("hello git...");
+		System.out.println("hello git...");//edit by hotfix
 		System.out.println("hello git...");//edit by 291
 		System.out.println("hello git...");
 		System.out.println("hello git...");
